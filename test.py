@@ -1,11 +1,4 @@
-#Script para medir la velocidad de internet:
-#Tiene que estar en Python 2.7 o el modulo de mierda no se importa bien.
-
-#HACER:
-#mostrar la info del servidor al que estoy conectado
-# buscar: getting isp info
-
-
+#Pequeño script en Python 2.7 para medir la velocidad de internet:
 
 from decimal import Decimal
 import speedtest   
